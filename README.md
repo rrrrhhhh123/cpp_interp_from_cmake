@@ -1,6 +1,6 @@
 # Spline Interpolation C++ SO to Python Library
 
-This repo is an toy example to implement the spline interpolation in C++, and compile to a
+This repo is a toy example to implement the spline interpolation in C++, and compile to a
 python library by pybind11 and cmake
 
 ## Installation for this repo
