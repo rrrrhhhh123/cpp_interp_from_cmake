@@ -1,3 +1,19 @@
+# Spline Interpolation C++ SO to Python Library
+
+This repo is an toy example to implement the spline interpolation in C++, and compile to a
+python library by pybind11 and cmake
+
+## Installation for this repo
+
+```bash
+pip install ./cpp_interp_from_cmake
+```
+
+## Test case
+```python
+python ./tests/test.py
+```
+
 # cmake_example for pybind11
 
 [![Gitter][gitter-badge]][gitter-link]
